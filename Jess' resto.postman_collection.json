@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "1f8c5847-3cf0-4865-9721-1e6e4f2bc19c",
+		"name": "Jess' resto",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "15336312"
+	},
+	"item": [
+		{
+			"name": "get List All resto",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost/jess/api/resto",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"jess",
+						"api",
+						"resto"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
